@@ -2,7 +2,7 @@
 
 ###
 
-<br clear="both">
+
 
 <p align="left"></p>
 
