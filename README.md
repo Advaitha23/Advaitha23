@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">I am Advaiha Br</h2>
+<h2 align="left">I am Advaitha Br</h2>
 
 ###
 
